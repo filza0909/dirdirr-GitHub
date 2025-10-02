@@ -13,3 +13,4 @@ Dengan begitu, proses revisi bisa lebih cepat dan transparan, tanpa harus bolak-
 Selain kolaborasi, Figma juga kaya fitur untuk mendukung produktivitas desainer. Ada berbagai plugin, template, hingga sistem design system yang bisa diatur sesuai kebutuhan tim. 
 Desainer dapat dengan mudah membuat komponen yang bisa dipakai berulang, sehingga desain lebih konsisten dan efisien. Ditambah lagi, karena berbasis cloud, 
 hasil kerja otomatis tersimpan tanpa takut hilang, dan bisa diakses kapan saja, dari perangkat apa saja.
+
