@@ -1,16 +1,17 @@
 Nama  : Filza Nadira Yuksa
 Gugus : Java
 
-Figma adalah sebuah aplikasi desain berbasis cloud yang banyak digunakan untuk membuat tampilan antarmuka (UI) dan pengalaman pengguna (UX).
-Berbeda dengan software desain tradisional yang harus diinstal di komputer, Figma bisa langsung digunakan lewat browser, sehingga memudahkan
-kolaborasi tanpa perlu repot mengatur versi file. Hal ini membuat tim desain, developer, hingga stakeholder bisa melihat dan memberi masukan
-secara real-time pada satu proyek yang sama.
+*Figma adalah sebuah aplikasi desain berbasis cloud yang banyak digunakan untuk membuat tampilan antarmuka (UI) dan pengalaman pengguna (UX).
+*Aplikasi berbasis Vektor(elemen yg didalam tidak akan pecah karna bentuk garis)
+*Keunggulan Figma:
+1.Berbasis cloud,yang langsung tersimpan di server
+2.Dapat berkolaborasi real time,dan bisa bekerja sama dalam file yang sama
+3.Prototyping → membuat desain interaktif dan bisa diuji langsung.
+4.Popularitas → banyak dipakai perusahaan untuk mendesain produk digital karena praktis, fleksibel, dan mendukung kerja tim jarak jauh (remote).
 
-Keunggulan utama Figma terletak pada kemampuannya untuk kolaborasi. Beberapa orang bisa mengedit desain secara bersamaan, mirip seperti bekerja bersama di Google Docs.
-Selain itu, Figma juga menyediakan fitur komentar yang memungkinkan anggota tim memberi catatan langsung di area desain yang dibutuhkan. 
-Dengan begitu, proses revisi bisa lebih cepat dan transparan, tanpa harus bolak-balik mengirim file.
-
-Selain kolaborasi, Figma juga kaya fitur untuk mendukung produktivitas desainer. Ada berbagai plugin, template, hingga sistem design system yang bisa diatur sesuai kebutuhan tim. 
-Desainer dapat dengan mudah membuat komponen yang bisa dipakai berulang, sehingga desain lebih konsisten dan efisien. Ditambah lagi, karena berbasis cloud, 
-hasil kerja otomatis tersimpan tanpa takut hilang, dan bisa diakses kapan saja, dari perangkat apa saja.
-
+*Perbandingan: lebih ringan daripada Adobe XD dan lebih fleksibel daripada Sketch karena berbasis cloud.
+*Komponen utama interface Figma:
+1.Layar panel → menampilkan struktur layer.
+2.Toolbar → berisi tools utama.
+3.Kanvas → area kerja utama untuk mendesain.
+4.Property panel → tempat mengatur detail objek/desain
